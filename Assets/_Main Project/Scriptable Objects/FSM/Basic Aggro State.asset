@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 191b74aeae6f4e0458d841e3c96185e0, type: 3}
+  m_Name: Basic Aggro State
+  m_EditorClassIdentifier: 
+  defaultState: 0
+  stateName: Attack
+  behaviourData:
+  - {fileID: 11400000, guid: ccd7984a88f90cf42a1081bbb0c3f70b, type: 2}
+  - {fileID: 11400000, guid: 619a7d2da45edb147bb8cd9c7e30317a, type: 2}
+  - {fileID: 11400000, guid: c9bb010df84b94f48ab4942aa7216ec1, type: 2}
+  - {fileID: 11400000, guid: 57fd0510310795a4ab8666460e435848, type: 2}
+  - {fileID: 11400000, guid: 8043cc83fbf98784c89d3115ee96d7ad, type: 2}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e2945cc43b81d742a73ea151217db06, type: 3}
+  m_Name: NameDatabase
+  m_EditorClassIdentifier: 
+  firstNames:
+  - Snarl
+  - Rend
+  - Meat
+  - Savage
+  - Hero
+  - Beast
+  - Command
+  - Captain
+  - Lord
+  - Tough
+  - Laser
+  - Disco
+  - Cannon
+  - Whip
+  - Bomb
+  - Tiger
+  - Body
+  - Hip
+  - Groovy
+  - Mayhem
+  lastNames:
+  - Rot
+  - Corpse
+  - Slayer
+  - Eater
+  - Destroyer
+  - Slicer
+  - Commander
+  - Bite
+  - Moon
+  - Brain
+  - Maim
+  - Bullets
+  - Mixer
+  - Jumper
+  - Robot
+  - Slap
+  - Bob
+  - Gut
+  - Jocky
+  - Mutilator
+  connectors:
+  - The
+  - Of
+  - From
